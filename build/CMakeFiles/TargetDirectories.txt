@@ -1,0 +1,5 @@
+C:/Users/betha/dataminer/build/CMakeFiles/dataminer.dir
+C:/Users/betha/dataminer/build/CMakeFiles/PACKAGE.dir
+C:/Users/betha/dataminer/build/CMakeFiles/INSTALL.dir
+C:/Users/betha/dataminer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/betha/dataminer/build/CMakeFiles/ZERO_CHECK.dir

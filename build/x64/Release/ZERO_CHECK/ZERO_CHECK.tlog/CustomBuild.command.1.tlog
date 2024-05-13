@@ -1,0 +1,10 @@
+^C:\USERS\BETHA\DATAMINER\BUILD\CMAKEFILES\39D91DCA847E3A6F9B31E7BE708C1138\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/betha/dataminer -BC:/Users/betha/dataminer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/betha/dataminer/build/dataminer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
